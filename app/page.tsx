@@ -1,5 +1,5 @@
 // ===== À REMPLIR =====
-const LIEN_STRIPE = "#"; // colle ici ton lien de paiement Stripe (action 6)
+const LIEN_STRIPE = "https://buy.stripe.com/test_14AfZa1emez1aLR2sFgbm00";// colle ici ton lien de paiement Stripe (action 6)
 const EMAIL_CONTACT = "REMPLACE@TON-EMAIL.fr"; // ton e-mail de contact
 const DATE_LIVRAISON = "[DATE DE LIVRAISON]"; // ex : 30 novembre
 // =====================
